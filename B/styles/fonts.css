@@ -1,0 +1,40 @@
+@font-face {
+    font-family:"Iranian-Sans" ;
+    src: url("../fonts/Iranian-Sans.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Inter_18pt-Light" ;
+    src: url("../fonts/Inter_18pt-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Inter_18pt-Medium" ;
+    src: url("../fonts/Inter_18pt-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Inter_18pt-Regular" ;
+    src: url("../fonts/Inter_18pt-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Inter_24pt-Light" ;
+    src: url("../fonts/Inter_24pt-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Inter_24pt-Medium" ;
+    src: url("../fonts/Inter_24pt-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Inter_24pt-Regular" ;
+    src: url("../fonts/Inter_24pt-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Inter_28pt-Light" ;
+    src: url("../fonts/Inter_28pt-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Inter_28pt-Medium" ;
+    src: url("../fonts/Inter_28pt-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family:"Inter_28pt-Regular" ;
+    src: url("../fonts/Inter_28pt-Regular.ttf") format("truetype");
+}
